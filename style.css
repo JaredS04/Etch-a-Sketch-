@@ -1,4 +1,4 @@
-
+/*creates border around div */
 #container {
     display: grid;
     grid-template-columns: auto;
@@ -7,7 +7,7 @@
     border: 3px solid black;
 }
 
-
+/* creates the div grid*/
 #container > div {
     width: 558px;
     height: 30px;

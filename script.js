@@ -12,4 +12,5 @@ function makeDivs(numDivs){
     }
 }
 
-makeDivs(256)
+// makes the divs
+makeDivs(32)
